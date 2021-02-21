@@ -22,4 +22,4 @@ Deploy Eliana to Heroku:
 
 
 
-<b>#Team Legend</b>
+<b>made by mayvid and imperial</b>
