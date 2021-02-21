@@ -13,7 +13,7 @@
 [![Maintenance](https://img.shields.io/badge/maintained-yes-yellow.svg)](https://github.com/immperialmayvid/https://github.com/immperialmayvid/Eliana)
 
 
-Can be found on telegram as [Eliana](https://t.me/)
+Can be found on telegram as [Eliana](https://t.me/Eliana_Support)
 
 Deploy Anie to Heroku:
 
