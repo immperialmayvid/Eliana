@@ -15,7 +15,7 @@
 
 Can be found on telegram as [Eliana](https://t.me/Eliana_Support)
 
-Deploy Anie to Heroku:
+Deploy Eliana to Heroku:
 
 <p align="left"><a href="https://heroku.com/deploy?template=https://github.com/immperialmayvid/Eliana"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
 
