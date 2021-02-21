@@ -1,7 +1,6 @@
 # Eliana - A Telegram Bot Project
 
 > ⭐️ Thanks to everyone who has starred the project, it means a lot !
-##### Its a request to everyone who is using this free software and maintaining their own forks/imports from this repository to strictly comply with the LICENCE associated with this repository !<br /><br />If you are using an import your repository should contain a link to the [main repository](https://github.com/immperialmayvid/Eliana) in the README.
 
 [![Heroku](https://pyheroku-badge.herokuapp.com/?app=Eliana)](https://missjuliarobot.herokuapp.com)
 [![AGPLv3 license](https://img.shields.io/badge/license-AGPL–3.0-red.svg)](https://www.gnu.org/licenses/agpl-3.0.en.html)
@@ -14,7 +13,7 @@
 [![Maintenance](https://img.shields.io/badge/maintained-yes-yellow.svg)](https://github.com/immperialmayvid/https://github.com/immperialmayvid/Eliana)
 
 
-Can be found on telegram as [Anie](https://t.me/Jarvisevobot)
+Can be found on telegram as [Eliana](https://t.me/)
 
 Deploy Anie to Heroku:
 
