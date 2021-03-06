@@ -1,4 +1,4 @@
-# Anie - A Telegram Bot Project
+# Eliana - A Telegram Bot Project
 
 > ⭐️ Thanks to everyone who has starred the project, it means a lot !
 ##### Its a request to everyone who is using this free software and maintaining their own forks/imports from this repository to strictly comply with the LICENCE associated with this repository !<br /><br />If you are using an import your repository should contain a link to the [main repository](https://github.com/Amarnathcdj/Julia) in the README.
@@ -15,9 +15,9 @@
 
 **Blazingly fast Telegram Group Management Bot based on [Telethon](https://github.com/LonamiWebs/Telethon) coupled with [sqlalchemy](https://github.com/sqlalchemy/sqlalchemy), [mongodb](https://github.com/mongodb/mongo) and [falcon](https://github.com/falconry/falcon).**
 
-Can be found on telegram as [Anie](https://t.me/Jarvisevobot)
+Can be found on telegram as [Eliana](https://t.me/Miss_eliana_bot)
 
-Deploy Anie to Heroku:
+Deploy Eliana to Heroku:
 
 <p align="left"><a href="https://heroku.com/deploy?template=https://github.com/immperialmayvid/eliana"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
 
