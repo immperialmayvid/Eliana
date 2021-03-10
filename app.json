@@ -8,17 +8,17 @@
   "env": {
     "API_KEY": {
       "description": "Get this value from my.telegram.org! Please do not steal",
-      "value": "",
+      "value": "1473988",
       "required": true
     },
     "API_HASH": {
       "description": "Get this value from my.telegram.org! Please do not steal",
-      "value": "",
+      "value": "18049138a79bac4b353a5782f307aa2e",
       "required": true
     },
     "HEROKU_APP_NAME": {
       "description": "This is same as the heroku application name",
-      "value": "",
+      "value": "elianaa-bot",
       "required": true
     },
     "STRING_SESSION": {
@@ -28,7 +28,7 @@
     },
     "TOKEN": {
       "description": "Get your bot token from @BotFather",
-      "value": "",
+      "value": "1629984525:AAEERyLEAp-1emlvLp8eON2s-LWZgDIvjcU",
       "required": true
     },
     "UPSTREAM_REPO_URL": {
@@ -59,7 +59,7 @@
     },
     "GBAN_LOGS": {
       "description": "The group id for logging all gbans",
-      "value": "",
+      "value": "-1001486328729",
       "required": true
     },
     "REM_BG_API_KEY": {
@@ -68,7 +68,7 @@
     },
     "SUDO_USERS": {
       "description": "List of user id's who will have SUDO rights in your bot(they can gban/ungban users)",
-      "value": "",
+      "value": "1189203516",
       "required": false
     },
     "YOUTUBE_API_KEY": {
@@ -78,17 +78,17 @@
     },
     "OWNER_ID": {
       "description": "An integer of consisting of your ID",
-      "value": "",
+      "value": "1139015451",
       "required": true
     },
     "OWNER_USERNAME": {
       "description": "Your username without @",
-      "value": "",
+      "value": "IMPERIAL_XD",
       "required": true
     },
     "BOT_ID": {
       "description": "userid of the bot itself, use any other bot to get it",
-      "value": "",
+      "value": "1629984525",
       "required": true
     },
     "TIME_API_KEY": {
